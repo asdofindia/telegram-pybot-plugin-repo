@@ -149,6 +149,18 @@
             "pkg_name": "emoticons",
             "repo": "https://github.com/datamachine/telegram-pybot-emoticons.git",
             "version": "1.1"
+        },
+        {
+            "branch": "master",
+            "default_enable": [
+                "FSMK"
+            ],
+            "description": "FSMK tools for Telegram",
+            "homepage": "https://github.com/asdofindia/telegram-pybot-fsmk",
+            "name": "FSMK",
+            "pkg_name": "fsmk",
+            "repo": "https://github.com/asdofindia/telegram-pybot-fsmk.git",
+            "version": "0.1"
         }
     ]
 }

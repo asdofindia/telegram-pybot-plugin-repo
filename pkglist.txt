@@ -1,15 +1,2 @@
-whiskey	https://raw.githubusercontent.com/xlopo/tg-pybot-whiskey/master/repository
-dice	https://raw.githubusercontent.com/datamachine/telegram-pybot-dice/master/repository
-examplecallbacks    https://raw.githubusercontent.com/datamachine/telegram-pybot-examplecallbacks/master/repository
-btc 	https://raw.githubusercontent.com/datamachine/telegram-pybot-btc/master/repository
-calculator  https://raw.githubusercontent.com/datamachine/telegram-pybot-calculator/master/repository
-weather https://raw.githubusercontent.com/datamachine/telegram-pybot-weather/master/repository
-beer https://raw.githubusercontent.com/datamachine/telegram-pybot-beer/master/repository
-nutrition    https://raw.githubusercontent.com/datamachine/telegram-pybot-nutrition/master/repository
-magic8ball  https://raw.githubusercontent.com/function10/telegram-pybot-magic-eight-ball/master/repository
-spyfall  https://raw.githubusercontent.com/datamachine/telegram-pybot-spyfall/master/repository
-remindme https://raw.githubusercontent.com/datamachine/telegram-pybot-remindme/master/repository
-nfl https://raw.githubusercontent.com/datamachine/telegram-pybot-nfl/master/repository
-emoticons  https://raw.githubusercontent.com/datamachine/telegram-pybot-emoticons/master/repository
 fsmk https://raw.githubusercontent.com/asdofindia/telegram-pybot-fsmk/master/repository
 search https://raw.githubusercontent.com/asdofindia/telegram-pybot-search/master/repository

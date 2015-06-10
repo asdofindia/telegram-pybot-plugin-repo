@@ -1,2 +1,3 @@
-fsmk https://raw.githubusercontent.com/asdofindia/telegram-pybot-fsmk/master/repository
-search https://raw.githubusercontent.com/asdofindia/telegram-pybot-search/master/repository
+fsmk https://raw.githubusercontent.com/asdofindia/telex-fsmk/master/repository
+search https://raw.githubusercontent.com/asdofindia/telex-search/master/repository
+oopkg https://raw.githubusercontent.com/asdofindia/telex-oopkg/master/repository

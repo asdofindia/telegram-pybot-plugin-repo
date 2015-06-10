@@ -23,6 +23,18 @@
             "pkg_name": "search",
             "repo": "https://github.com/asdofindia/telegram-pybot-search.git",
             "version": "0.1"
+        },
+        {
+            "branch": "master",
+            "default_enable": [
+                "OneOffPackageManager"
+            ],
+            "description": "One off package manager for telex. Lets you install packages directly from a local folder or a github repo.",
+            "homepage": "https://github.com/asdofindia/telex-oopkg",
+            "name": "OneOffPackageManager",
+            "pkg_name": "oopkg",
+            "repo": "https://github.com/asdofindia/telex-oopkg.git",
+            "version": "0.1"
         }
     ]
 }
